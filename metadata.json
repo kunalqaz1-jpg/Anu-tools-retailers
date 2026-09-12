@@ -1,0 +1,6 @@
+{
+  "name": "Anu Tools",
+  "description": "Anu Tools Retailer Application for machinery, cutting tools, power tools, and workshop equipment orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
